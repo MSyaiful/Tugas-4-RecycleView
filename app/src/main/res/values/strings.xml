@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecycleView Games</string>
+    <string name="games_name">Nama Games</string>
+    <string name="from">Pembuat</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">With CardView</string>
+    <string name="description">Deskripsi</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
